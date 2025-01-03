@@ -1,4 +1,4 @@
-[简体中文](https://pnpm.io/zh/) |
+ [简体中文](https://pnpm.io/zh/) |
 [日本語](https://pnpm.io/ja/) |
 [한국어](https://pnpm.io/ko/) |
 [Italiano](https://pnpm.io/it/) |
